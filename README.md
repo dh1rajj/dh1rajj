@@ -167,7 +167,15 @@ I'm an Electronics & Computer Engineering student who builds end-to-end AI-drive
 </div>
 
 <br/>
-
+🐍 Contribution Grid
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dh1rajj/dh1rajj/pacman-output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dh1rajj/dh1rajj/pacman-output/pacman-contribution-graph.svg" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dh1rajj/dh1rajj/pacman-output/pacman-contribution-graph.svg" width="100%"/>
+</picture>
+<sub>Generated every 12 hours via <code>abozanona/pacman-contribution-graph</code> GitHub Action — see <code>.github/workflows/arcade.yml</code>.</sub>
+</div>
 ## 🌱 Currently Exploring
 
 <div align="center">
